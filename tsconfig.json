@@ -1,0 +1,13 @@
+
+{
+	"compilerOptions": {
+		"module": "CommonJS",
+		"target": "ESNext",
+		"esModuleInterop": true,
+		"newLine": "LF",
+		"importHelpers": true,
+		"useUnknownInCatchVariables": true,
+        "sourceMap": true
+	},
+	"exclude": ["node_modules/"]
+}
